@@ -1,5 +1,5 @@
 # Requirements
--click==8.1.3
+Line 1 click==8.1.3
 -colorama==0.4.5
 -Flask==2.1.3
 -Flask-SQLAlchemy==2.5.1
