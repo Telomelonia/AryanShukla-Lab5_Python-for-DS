@@ -1,5 +1,6 @@
 # Requirements
-```click==8.1.3
+```shell
+-click==8.1.3
 -colorama==0.4.5
 -Flask==2.1.3
 -Flask-SQLAlchemy==2.5.1
@@ -14,5 +15,6 @@
 -gunicorn
 -numpy
 -sklearn
-## Runtime
-``` Py - 3.10.5
+```
+# Runtime
+Py - 3.10.5
