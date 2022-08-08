@@ -14,3 +14,5 @@
 -gunicorn
 -numpy
 -sklearn
+## Runtime
+``` Py - 3.10.5
